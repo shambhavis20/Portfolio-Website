@@ -3,7 +3,7 @@
 
 import { useState, useEffect } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { ArrowRight, Download, Github, Linkedin, Mail, Phone } from "lucide-react";
+import { ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react";
 import { SiCodechef, SiCodeforces ,SiLeetcode  } from "react-icons/si";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
